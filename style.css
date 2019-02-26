@@ -1,0 +1,24 @@
+/* we have to link the stylesheet to the html file(s) that we want to style*/
+/* select an html element and give it some style*/
+
+#pinktext{
+    background-color: lightpink;
+}
+p.font{
+    font-family: "Times New Roman", Times, serif;
+    
+}
+.pinktext2{
+    background-color:antiquewhite;
+}
+
+.ice{
+    background-color: hotpink;
+}
+.karry{
+    background-color: skyblue;
+}
+.green{
+    background-color: darkseagreen;
+}
+
