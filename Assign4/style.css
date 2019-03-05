@@ -1,0 +1,65 @@
+nav{
+    text-align: center;
+    background-color: lightsalmon;
+    position:fixed;
+    width:100%;
+    
+}
+
+
+nav li{
+    display: inline;
+    padding:50px;
+    
+    
+    
+    
+}
+
+li a{
+    text-decoration: none;
+    
+}
+
+nav a{
+    color:white;
+    font-family: fantasy;
+    font-size:25px;
+    
+}
+
+#home{
+    background-color: mediumaquamarine;
+    height:500px;
+    padding:300px;
+    
+    font-family:fantasy;
+    
+    
+}
+
+#Blue{
+     background-color: skyblue;
+    height:400px;
+    padding:200px;
+    font-family:fantasy;
+}
+#Pink{
+     background-color:lightpink;
+    height:500px;
+    padding:200px;
+    font-family:fantasy;
+}
+#Yellow{
+     background-color: lightyellow;
+    height:500px;
+    padding:200px;
+    font-family:fantasy;
+}
+
+.text{
+    padding:0px;
+    margin:0px;
+    width:900px;
+    font-size: 30px;
+}
