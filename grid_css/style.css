@@ -1,0 +1,26 @@
+.item1 { grid-area: header; }
+.item3 { grid-area: main; }
+.item4 { grid-area: right; }
+.item5 { grid-area: footer; }
+
+.grid-container {
+  display: grid;
+  grid-template-areas:
+    'header header header header header header'
+    'main main main right right right'
+    'footer footer footer footer footer footer';
+  grid-gap: 15px;
+  padding: 15px;
+  background-image: url(http://4.bp.blogspot.com/-F7rzlmJg6Xc/UxZEKskGSgI/AAAAAAAAANA/QeRnHTarFTQ/s1600/Primavera.gif)
+}
+
+.grid-container > div {
+  background-color: rgba(255, 255, 255, 0.8);
+  text-align: center;
+  padding: 35px 0;
+  font-size: 25px;
+  font-family: fantasy;
+  color: lightpink;
+}
+
+
