@@ -1,0 +1,20 @@
+.container{
+ display: grid;
+  grid-template-columns:auto auto auto auto;
+  grid-gap: 20px;
+  background-color: lightpink;
+  padding: 30px;
+  background-image: url(http://4.bp.blogspot.com/-F7rzlmJg6Xc/UxZEKskGSgI/AAAAAAAAANA/QeRnHTarFTQ/s1600/Primavera.gif)
+
+      
+}
+
+
+.container>div{
+    font-family: fantasy;
+    background-image:url(https://cdn.shopify.com/s/files/1/1143/5434/products/Electric-Palm-PINK_P_25342b3a-3f99-4bdc-add1-8fedef73c054.jpg?v=1527702300);
+    padding: 40px;
+    color:lightcoral;
+    font-weight: 100;
+   
+}
