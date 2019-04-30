@@ -1,0 +1,24 @@
+
+#cute{
+    position:fixed;
+    
+    width:90px;
+    left: 300px;
+    
+    top: 300px;
+    
+}
+
+#text{
+    position: absolute;
+    font-family: fantasy;
+    font-size: 42px;
+    width:90px;
+    left: 700px;
+    top: 300px;
+    color:antiquewhite;
+    
+    
+    
+    
+}
